@@ -1,7 +1,7 @@
 package es.orange;
 
 /**
- * Hello world!!x!!
+ * Hello world!!xx!!
  *
  */
 public class App {
